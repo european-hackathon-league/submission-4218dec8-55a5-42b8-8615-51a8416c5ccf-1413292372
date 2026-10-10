@@ -1,0 +1,10 @@
+<in-app-browser-context source="ambient-ui-state">
+This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser.
+# In app browser:
+- The user has the in-app browser open with 2 tabs.
+- Current URL: https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8
+</in-app-browser-context>
+
+## My request:
+I'm almost out of tokens. Give me a prompt to paste into claude code to keep it running to solve this problem.
+Don't edit anything right now.
