@@ -3,9 +3,18 @@
   "checkpoint_id": "01M4M12SN5X6X02A5W5PZ1HEHD",
   "strategy": "manual-commit",
   "branch": "vinicius",
-  "checkpoints_count": 1,
+  "checkpoints_count": 5,
   "files_touched": [
-    ".gitignore"
+    ".gitignore",
+    "README.md",
+    "agent.json",
+    "agent.py",
+    "browser_tools.py",
+    "rfq_agent.py",
+    "tests/test_agent.py",
+    "tests/test_browser.py",
+    "tests/test_kit.py",
+    "tests/test_transfer.py"
   ],
   "sessions": [
     {
@@ -14,14 +23,20 @@
       "compact_transcript": "/0/transcript.jsonl",
       "content_hash": "/0/content_hash.txt",
       "prompt": "/0/prompt.txt"
+    },
+    {
+      "metadata": "/1/metadata.json",
+      "transcript": "/1/full.jsonl",
+      "compact_transcript": "/1/transcript.jsonl",
+      "content_hash": "/1/content_hash.txt",
+      "prompt": "/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 134651,
-    "cache_creation_tokens": 0,
-    "cache_read_tokens": 0,
-    "output_tokens": 1851,
-    "api_call_count": 1,
-    "subagent_tokens_complete": true
+    "input_tokens": 135171,
+    "cache_creation_tokens": 513696,
+    "cache_read_tokens": 94571369,
+    "output_tokens": 233684,
+    "api_call_count": 259
   }
 }
