@@ -1,0 +1,63 @@
+Are you already working with entire
+
+---
+
+With the entire tool and hooks.
+with what's under .entire
+
+---
+
+Read https://ehl-challenge.atira.ai/llms.txt, then set us up and help us build, test and submit an agent for this challenge.
+I've done all steps up until the end of step 4.
+
+---
+
+I changed to a smarter model.
+Continue.
+
+---
+
+I changed to a smarter model. 
+Continue
+
+---
+
+<in-app-browser-context source="ambient-ui-state">
+This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser.
+# In app browser:
+- The user has the in-app browser open with 2 tabs.
+- Current URL: https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8
+</in-app-browser-context>
+
+## My request:
+Also make sure that the agent is not overfitting on the already existing challenges.
+These challenges are only for today, and tomorrow they are going to give us a new challenge websites tomorrow.
+It's extremely important that you do not hardcode the solutions for each problem on each website. Because, like I said, the agent will get new challenges tomorrow.
+
+---
+
+<in-app-browser-context source="ambient-ui-state">
+This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser.
+# In app browser:
+- The user has the in-app browser open with 2 tabs.
+- Current URL: https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8
+</in-app-browser-context>
+
+## My request:
+Also. We scored 15/100. Did we just do a test run or did we also submit. If we hit 15/100, submit!
+Also again, I got some more insights into the quality test in atira by logging in (in [https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8](https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8)). Can you see it? I logged in the browser inside codex.
+
+---
+
+<in-app-browser-context source="ambient-ui-state">
+This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser.
+# In app browser:
+- The user has the in-app browser open with 2 tabs.
+- Current URL: https://ehl-challenge.atira.ai/runs/run_27e6582791bd97a8
+</in-app-browser-context>
+
+## My request:
+Also, this is more information on the challenge:
+[https://ehl-challenge.atira.ai/challenges/rfq](https://ehl-challenge.atira.ai/challenges/rfq)
+
+It might be helpful for you (rules and stuff)
